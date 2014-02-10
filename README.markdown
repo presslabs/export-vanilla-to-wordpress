@@ -4,6 +4,8 @@ Perform the script configurations in the configuration file.
 Run the script in the command line.
 The SQL queries shall be output to the file specified in the configuration file.
 
+The exact steps to follow can be found on http://www.presslabs.com/blog/export-your-vanilla-comments-to-wordpress/ 
+
 
 Copyright
 =========
